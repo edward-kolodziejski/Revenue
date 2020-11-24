@@ -1,3 +1,5 @@
+## Data warehouse for futher analysis has been created using Pandas - Python framework in Jupyter Notebook
+
 ### Importing packages and mapping entry files
 
 
